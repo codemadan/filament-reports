@@ -1,21 +1,21 @@
 {
-    "name": "eightynine/filament-reports",
+    "name": "codemadan/filament-reports",
     "description": "Elegant reports in your filament application",
     "keywords": [
         "eightynine",
         "laravel",
         "filament-reports"
     ],
-    "homepage": "https://github.com/eightynine/filament-reports",
+    "homepage": "https://github.com/codemadan/filament-reports",
     "support": {
-        "issues": "https://github.com/eightynine/filament-reports/issues",
-        "source": "https://github.com/eightynine/filament-reports"
+        "issues": "https://github.com/codemadan/filament-reports/issues",
+        "source": "https://github.com/codemadan/filament-reports"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Eighty Nine",
-            "email": "eighty9nine@gmail.com",
+            "email": "codemadan@gmail.com",
             "role": "Developer"
         }
     ],
